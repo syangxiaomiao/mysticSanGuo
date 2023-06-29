@@ -4,8 +4,7 @@
             "variable_dict": {
                 "SFX_ENTITY": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -75,7 +74,7 @@
             "p_trigger_id": null, 
             "trigger_id": 151769090, 
             "trigger_name": "Trigger", 
-            "valid": true
+            "valid": false
         }, 
         "791093253": {
             "action": [
@@ -582,10 +581,5 @@
         "cnt": 0, 
         "trg": 0, 
         "tx": 0
-    }, 
-    "variable_type_dict": {
-        "cnt": false, 
-        "trg": false, 
-        "tx": false
     }
 }

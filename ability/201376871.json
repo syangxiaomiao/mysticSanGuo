@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "unit": false
             }
         }
     }, 
@@ -186,7 +183,7 @@
             "p_trigger_id": 949952513, 
             "trigger_id": 396374018, 
             "trigger_name": "sub_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "949952513": {
             "action": [
@@ -231,7 +228,7 @@
             "p_trigger_id": null, 
             "trigger_id": 949952513, 
             "trigger_name": "Ability Gained", 
-            "valid": true
+            "valid": false
         }, 
         "1086636035": {
             "action": [
@@ -332,10 +329,5 @@
         "Caster": 0, 
         "string": 10, 
         "trigger": 0
-    }, 
-    "variable_type_dict": {
-        "Caster": false, 
-        "string": true, 
-        "trigger": false
     }
 }

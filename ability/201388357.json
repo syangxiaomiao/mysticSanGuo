@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "n": 0
-            }, 
-            "variable_type_dict": {
-                "n": false
             }
         }
     }, 
@@ -1097,7 +1094,7 @@
             "p_trigger_id": 1944932353, 
             "trigger_id": 471142404, 
             "trigger_name": "Into the grass", 
-            "valid": true
+            "valid": false
         }, 
         "628412423": {
             "action": [
@@ -1372,7 +1369,7 @@
             "p_trigger_id": 1944932353, 
             "trigger_id": 1844203528, 
             "trigger_name": "Small_butterfly", 
-            "valid": true
+            "valid": false
         }, 
         "1944932353": {
             "action": [
@@ -1397,7 +1394,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1944932353, 
             "trigger_name": "gain", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -1481,12 +1478,5 @@
         "g_timer2": 0, 
         "gray_dmg": 0, 
         "trg5": 0
-    }, 
-    "variable_type_dict": {
-        "bf": false, 
-        "g_timer": false, 
-        "g_timer2": false, 
-        "gray_dmg": false, 
-        "trg5": false
     }
 }

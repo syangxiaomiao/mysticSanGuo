@@ -134,7 +134,7 @@
             "p_trigger_id": null, 
             "trigger_id": 534233093, 
             "trigger_name": "The_new_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1926742022": {
             "action": [
@@ -313,7 +313,7 @@
             "p_trigger_id": 534233093, 
             "trigger_id": 1926742022, 
             "trigger_name": "The_child_trigger_2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -351,8 +351,5 @@
     ], 
     "variable_length_dict": {
         "timer": 0
-    }, 
-    "variable_type_dict": {
-        "timer": false
     }
 }

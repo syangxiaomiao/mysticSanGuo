@@ -22,7 +22,7 @@
             "p_trigger_id": null, 
             "trigger_id": 123617281, 
             "trigger_name": "Ability Gained", 
-            "valid": true
+            "valid": false
         }, 
         "202452995": {
             "action": [
@@ -201,7 +201,7 @@
             "p_trigger_id": 123617281, 
             "trigger_id": 202452995, 
             "trigger_name": "sub_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1124560898": {
             "action": [
@@ -542,7 +542,7 @@
             "p_trigger_id": 123617281, 
             "trigger_id": 1203277828, 
             "trigger_name": "sub_trigger2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -587,8 +587,5 @@
     ], 
     "variable_length_dict": {
         "timer": 0
-    }, 
-    "variable_type_dict": {
-        "timer": false
     }
 }

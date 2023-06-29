@@ -10,10 +10,6 @@
             "variable_length_dict": {
                 "t": 0, 
                 "t1": 0
-            }, 
-            "variable_type_dict": {
-                "t": false, 
-                "t1": false
             }
         }
     }, 
@@ -474,7 +470,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1264992259, 
             "trigger_name": "AbilityPrecastEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -508,8 +504,5 @@
     ], 
     "variable_length_dict": {
         "\u4f24\u5bb3": 0
-    }, 
-    "variable_type_dict": {
-        "\u4f24\u5bb3": false
     }
 }

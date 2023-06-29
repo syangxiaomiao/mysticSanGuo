@@ -12,10 +12,6 @@
             "variable_length_dict": {
                 "aaa": 0, 
                 "unit": 10
-            }, 
-            "variable_type_dict": {
-                "aaa": false, 
-                "unit": true
             }
         }
     }, 
@@ -474,7 +470,7 @@
             "p_trigger_id": null, 
             "trigger_id": 800751620, 
             "trigger_name": "AbilityEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1435660289": {
             "action": [
@@ -887,7 +883,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1435660289, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1973968899": {
             "action": [
@@ -1138,7 +1134,7 @@
             }, 
             "trigger_id": 1973968899, 
             "trigger_name": "UnitReceivesCommandEventHandler", 
-            "valid": true
+            "valid": false
         }, 
         "2033991684": {
             "action": [
@@ -1329,11 +1325,5 @@
         "door1_2": 0, 
         "jishiqi": 0, 
         "transport": 0
-    }, 
-    "variable_type_dict": {
-        "door1": false, 
-        "door1_2": false, 
-        "jishiqi": false, 
-        "transport": false
     }
 }

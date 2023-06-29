@@ -100,7 +100,7 @@
             "p_trigger_id": null, 
             "trigger_id": 435712001, 
             "trigger_name": "Gain Modifier", 
-            "valid": true
+            "valid": false
         }, 
         "1694318594": {
             "action": [
@@ -201,7 +201,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1694318594, 
             "trigger_name": "Lose Modifier", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -227,6 +227,5 @@
         "FLOAT": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

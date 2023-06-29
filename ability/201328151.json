@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "CurRound": 0
-            }, 
-            "variable_type_dict": {
-                "CurRound": false
             }
         }
     }, 
@@ -619,7 +616,7 @@
             "p_trigger_id": 1891471361, 
             "trigger_id": 807636994, 
             "trigger_name": "NormalAttackEventHandler", 
-            "valid": true
+            "valid": false
         }, 
         "904355844": {
             "action": [
@@ -1351,7 +1348,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1891471361, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -1416,12 +1413,5 @@
         "baseAttackSpeedRate": 0, 
         "extraAttackSpeed": 0, 
         "extraAttackSpeedRate": 0
-    }, 
-    "variable_type_dict": {
-        "ChangeSwitch": false, 
-        "baseAttackSpeed": false, 
-        "baseAttackSpeedRate": false, 
-        "extraAttackSpeed": false, 
-        "extraAttackSpeedRate": false
     }
 }

@@ -9,9 +9,6 @@
             }, 
             "variable_length_dict": {
                 "\u8d64\u70bc": 0
-            }, 
-            "variable_type_dict": {
-                "\u8d64\u70bc": false
             }
         }
     }, 
@@ -97,7 +94,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1226727426, 
             "trigger_name": "The_new_trigger__2", 
-            "valid": true
+            "valid": false
         }, 
         "2023383041": {
             "action": [
@@ -180,7 +177,7 @@
             "p_trigger_id": null, 
             "trigger_id": 2023383041, 
             "trigger_name": "The_new_trigger", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -203,6 +200,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

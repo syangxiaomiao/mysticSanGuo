@@ -78,7 +78,7 @@
             "p_trigger_id": null, 
             "trigger_id": 420171779, 
             "trigger_name": "Trigger", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -97,6 +97,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

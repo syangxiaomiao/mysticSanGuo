@@ -361,7 +361,7 @@
             "p_trigger_id": null, 
             "trigger_id": 222081026, 
             "trigger_name": "Trigger", 
-            "valid": true
+            "valid": false
         }, 
         "289189889": {
             "action": [
@@ -545,6 +545,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

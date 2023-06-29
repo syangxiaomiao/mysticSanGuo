@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "ConcentrationFormule": 0
-            }, 
-            "variable_type_dict": {
-                "ConcentrationFormule": false
             }
         }
     }, 
@@ -765,7 +762,7 @@
             "p_trigger_id": null, 
             "trigger_id": 336822274, 
             "trigger_name": "AbilityContinuousCastingEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1611640833": {
             "action": [
@@ -1791,7 +1788,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1611640833, 
             "trigger_name": "AbilityPercastStarts", 
-            "valid": true
+            "valid": false
         }, 
         "1923776515": {
             "action": [
@@ -1909,9 +1906,5 @@
     "variable_length_dict": {
         "SpellEffect": 0, 
         "SpellTimer": 0
-    }, 
-    "variable_type_dict": {
-        "SpellEffect": false, 
-        "SpellTimer": false
     }
 }

@@ -652,7 +652,7 @@
             "p_trigger_id": null, 
             "trigger_id": 565727236, 
             "trigger_name": "AbilityPrecastEnds", 
-            "valid": true
+            "valid": false
         }, 
         "1664679938": {
             "action": [
@@ -813,8 +813,5 @@
     ], 
     "variable_length_dict": {
         "\u4f24\u5bb3": 0
-    }, 
-    "variable_type_dict": {
-        "\u4f24\u5bb3": false
     }
 }
