@@ -1347,16 +1347,48 @@
   "__tuple__": true, 
   "items": [
    10000, 
-   "\u77e9\u5f62\u533a\u57df", 
+   "\u73a9\u5bb61\u6218\u6597\u533a\u57df", 
    2048
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   1, 
-   "\u9776\u5b50", 
-   4
+   10001, 
+   "\u73a9\u5bb61\u5e03\u5c40\u533a\u57df", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10003, 
+   "\u73a9\u5bb61\u955c\u50cf\u533a\u57df", 
+   2048
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   3, 
+   "\u590f\u4faf\u60c7", 
+   1
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   4, 
+   "\u590f\u4faf\u60c7", 
+   1
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10005, 
+   "\u73a9\u5bb61\u654c\u4eba\u533a\u57df", 
+   2048
   ]
  }, 
  {
