@@ -824,7 +824,7 @@
             "p_trigger_id": null, 
             "trigger_id": 666447875, 
             "trigger_name": "The_new_trigger_3", 
-            "valid": true
+            "valid": false
         }, 
         "810479618": {
             "action": [
@@ -916,7 +916,7 @@
             "p_trigger_id": null, 
             "trigger_id": 810479618, 
             "trigger_name": "The_new_trigger_2", 
-            "valid": true
+            "valid": false
         }, 
         "1678905350": {
             "action": [
@@ -1112,10 +1112,5 @@
         "area": 0, 
         "pr": 0, 
         "pr2": 0
-    }, 
-    "variable_type_dict": {
-        "area": false, 
-        "pr": false, 
-        "pr2": false
     }
 }

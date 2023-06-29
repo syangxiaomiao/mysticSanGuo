@@ -13,11 +13,6 @@
                 "caster": 0, 
                 "target": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "caster": false, 
-                "target": false, 
-                "unit": false
             }
         }
     }, 
@@ -457,7 +452,7 @@
             "p_trigger_id": 1027297281, 
             "trigger_id": 691769346, 
             "trigger_name": "hacking", 
-            "valid": true
+            "valid": false
         }, 
         "893100035": {
             "action": [
@@ -542,7 +537,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1027297281, 
             "trigger_name": "Ability gained", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -580,8 +575,5 @@
     ], 
     "variable_length_dict": {
         "trigger": 0
-    }, 
-    "variable_type_dict": {
-        "trigger": false
     }
 }

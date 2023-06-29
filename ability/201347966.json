@@ -100,7 +100,7 @@
             "p_trigger_id": 1300942849, 
             "trigger_id": 463007748, 
             "trigger_name": "SpecifiedAbilityOwnerUnitKillsOtherUnit", 
-            "valid": true
+            "valid": false
         }, 
         "1300942849": {
             "action": [
@@ -121,7 +121,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1300942849, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -155,8 +155,5 @@
     ], 
     "variable_length_dict": {
         "\u4f24\u5bb3": 0
-    }, 
-    "variable_type_dict": {
-        "\u4f24\u5bb3": false
     }
 }

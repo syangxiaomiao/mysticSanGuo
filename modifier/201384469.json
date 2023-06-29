@@ -233,7 +233,7 @@
             }, 
             "trigger_id": 65978371, 
             "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
-            "valid": true
+            "valid": false
         }, 
         "938364929": {
             "action": [
@@ -305,7 +305,7 @@
             "p_trigger_id": null, 
             "trigger_id": 938364929, 
             "trigger_name": "Gain", 
-            "valid": true
+            "valid": false
         }, 
         "1810780162": {
             "action": [
@@ -453,8 +453,5 @@
     ], 
     "variable_length_dict": {
         "trg": 0
-    }, 
-    "variable_type_dict": {
-        "trg": false
     }
 }

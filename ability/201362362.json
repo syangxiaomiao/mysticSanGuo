@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "buff": 0
-            }, 
-            "variable_type_dict": {
-                "buff": false
             }
         }
     }, 
@@ -109,7 +106,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1062768643, 
             "trigger_name": "Ability Gained", 
-            "valid": true
+            "valid": false
         }, 
         "1398067203": {
             "action": [
@@ -233,7 +230,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1398067203, 
             "trigger_name": "Ability Precast Ends", 
-            "valid": true
+            "valid": false
         }, 
         "1532551172": {
             "action": [
@@ -503,7 +500,7 @@
             "p_trigger_id": 1062768643, 
             "trigger_id": 1532551172, 
             "trigger_name": "sub_trigger", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -538,6 +535,5 @@
         "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

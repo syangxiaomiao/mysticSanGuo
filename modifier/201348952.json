@@ -189,7 +189,7 @@
             "p_trigger_id": 1067986945, 
             "trigger_id": 44613635, 
             "trigger_name": "The_child_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1067986945": {
             "action": [
@@ -210,7 +210,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1067986945, 
             "trigger_name": "The_new_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1336434690": {
             "action": [
@@ -288,8 +288,5 @@
     ], 
     "variable_length_dict": {
         "trg": 0
-    }, 
-    "variable_type_dict": {
-        "trg": false
     }
 }

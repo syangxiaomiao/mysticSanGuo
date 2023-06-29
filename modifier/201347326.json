@@ -93,7 +93,7 @@
             "p_trigger_id": null, 
             "trigger_id": 416002049, 
             "trigger_name": "The_new_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "567652354": {
             "action": [
@@ -170,6 +170,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

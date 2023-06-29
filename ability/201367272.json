@@ -515,7 +515,7 @@
             "p_trigger_id": null, 
             "trigger_id": 687095810, 
             "trigger_name": "trigger_2", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -549,8 +549,5 @@
     ], 
     "variable_length_dict": {
         "line": 0
-    }, 
-    "variable_type_dict": {
-        "line": false
     }
 }

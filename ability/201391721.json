@@ -559,7 +559,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1549705218, 
             "trigger_name": "Ability Precast Ends", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -586,6 +586,5 @@
         "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

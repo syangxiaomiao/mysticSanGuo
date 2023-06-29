@@ -78,7 +78,7 @@
             "p_trigger_id": null, 
             "trigger_id": 458727425, 
             "trigger_name": "trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1784152066": {
             "action": [
@@ -159,9 +159,5 @@
     "variable_length_dict": {
         "bf": 0, 
         "tx": 0
-    }, 
-    "variable_type_dict": {
-        "bf": false, 
-        "tx": false
     }
 }

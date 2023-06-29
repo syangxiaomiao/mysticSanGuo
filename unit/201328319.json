@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "dragon": 0
-            }, 
-            "variable_type_dict": {
-                "dragon": false
             }
         }
     }, 
@@ -558,7 +555,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1695182849, 
             "trigger_name": "The_new_trigger", 
-            "valid": true
+            "valid": false
         }, 
         "1731784707": {
             "action": [
@@ -661,8 +658,5 @@
     ], 
     "variable_length_dict": {
         "timer": 0
-    }, 
-    "variable_type_dict": {
-        "timer": false
     }
 }

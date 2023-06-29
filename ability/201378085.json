@@ -20,7 +20,7 @@
             "p_trigger_id": null, 
             "trigger_id": 794238977, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }, 
         "1264054275": {
             "action": [
@@ -258,7 +258,7 @@
             "p_trigger_id": 794238977, 
             "trigger_id": 1264054275, 
             "trigger_name": "HitsOtherUnitEventHandler", 
-            "valid": true
+            "valid": false
         }, 
         "1851203586": {
             "action": [], 
@@ -304,6 +304,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

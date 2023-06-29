@@ -5,8 +5,7 @@
                 "BOOLEAN": {}, 
                 "INTEGER": {}
             }, 
-            "variable_length_dict": {}, 
-            "variable_type_dict": {}
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -879,6 +878,10 @@
                         7, 
                         9
                     ], 
+                    "local_var": [
+                        {}, 
+                        {}
+                    ], 
                     "op_arg": [
                         null, 
                         null, 
@@ -909,6 +912,10 @@
                         null, 
                         null, 
                         null, 
+                        null, 
+                        null, 
+                        null, 
+                        null, 
                         null
                     ], 
                     "op_arg_enable": [
@@ -920,6 +927,10 @@
                         true, 
                         true, 
                         true, 
+                        false, 
+                        false, 
+                        false, 
+                        false, 
                         false, 
                         false, 
                         false, 
@@ -942,7 +953,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1549705218, 
             "trigger_name": "Ability Precast Ends", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -969,6 +980,5 @@
         "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }

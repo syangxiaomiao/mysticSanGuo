@@ -304,7 +304,7 @@
             "p_trigger_id": 2024296449, 
             "trigger_id": 548130818, 
             "trigger_name": "CastAbilityHandler", 
-            "valid": true
+            "valid": false
         }, 
         "2024296449": {
             "action": [
@@ -325,7 +325,7 @@
             "p_trigger_id": null, 
             "trigger_id": 2024296449, 
             "trigger_name": "GainBuff", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -359,8 +359,5 @@
     ], 
     "variable_length_dict": {
         "aaa": 0
-    }, 
-    "variable_type_dict": {
-        "aaa": false
     }
 }

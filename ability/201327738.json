@@ -119,7 +119,7 @@
             "p_trigger_id": null, 
             "trigger_id": 2024108033, 
             "trigger_name": "AbilityGained", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -153,8 +153,5 @@
     ], 
     "variable_length_dict": {
         "bf": 0
-    }, 
-    "variable_type_dict": {
-        "bf": false
     }
 }

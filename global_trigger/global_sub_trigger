@@ -2795,41 +2795,6 @@
         "group_id": 0, 
         "is_conf": true, 
         "p_trigger_id": 1023295507, 
-        "sub_trigger_owner_set_var_action": {
-            "action_type": "SET_VARIABLE", 
-            "args_list": [
-                {
-                    "arg_type": 100178, 
-                    "args_list": [
-                        {
-                            "__tuple__": true, 
-                            "items": [
-                                "DYNAMIC_TRIGGER_INSTANCE", 
-                                "trig", 
-                                "local"
-                            ]
-                        }
-                    ], 
-                    "sub_type": "VARIABLE"
-                }, 
-                {
-                    "arg_type": 100178, 
-                    "args_list": [
-                        {
-                            "arg_type": 100019, 
-                            "args_list": [
-                                499355669
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "sub_type": "REG_TRIGGER"
-                }
-            ], 
-            "bp": false, 
-            "element_id": 1023295507000181, 
-            "enable": true
-        }, 
         "trigger_id": 499355669, 
         "trigger_name": "\u5b50\u89e6\u53d1\u5668", 
         "valid": true
@@ -9424,48 +9389,6 @@
         }, 
         "trigger_id": 1872433179, 
         "trigger_name": "t1", 
-        "valid": true
-    }, 
-    "1875570739": {
-        "action": [
-            {
-                "action_type": "PRINT_MESSAGE_ACTION_TO_DIALOG", 
-                "args_list": [
-                    {
-                        "arg_type": 100175, 
-                        "args_list": [
-                            3
-                        ], 
-                        "sub_type": 1
-                    }, 
-                    {
-                        "arg_type": 100003, 
-                        "args_list": [
-                            "Hello World!"
-                        ], 
-                        "sub_type": 1
-                    }
-                ], 
-                "bp": false, 
-                "element_id": 1875570739000048, 
-                "enable": true
-            }
-        ], 
-        "call_enabled": true, 
-        "condition": [], 
-        "enabled": true, 
-        "event": [
-            {
-                "args_list": [], 
-                "element_id": 1875570739000038, 
-                "enable": true, 
-                "event_type": "INIT_FINISHED"
-            }
-        ], 
-        "group_id": 0, 
-        "p_trigger_id": null, 
-        "trigger_id": 1875570739, 
-        "trigger_name": "New trigger", 
         "valid": true
     }, 
     "1897074738": {

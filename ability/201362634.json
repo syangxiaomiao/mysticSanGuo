@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "tx": 0
-            }, 
-            "variable_type_dict": {
-                "tx": false
             }
         }
     }, 
@@ -123,7 +120,7 @@
             "p_trigger_id": null, 
             "trigger_id": 47726595, 
             "trigger_name": "Trigger", 
-            "valid": true
+            "valid": false
         }, 
         "383455234": {
             "action": [
@@ -393,8 +390,5 @@
     ], 
     "variable_length_dict": {
         "tx1": 0
-    }, 
-    "variable_type_dict": {
-        "tx1": false
     }
 }

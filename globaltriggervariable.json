@@ -18,12 +18,6 @@
                 "player": 0, 
                 "rindex": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "cindex": false, 
-                "player": false, 
-                "rindex": false, 
-                "unit": false
             }
         }, 
         "72462362": {
@@ -36,10 +30,6 @@
             "variable_length_dict": {
                 "cindex": 0, 
                 "rindex": 0
-            }, 
-            "variable_type_dict": {
-                "cindex": false, 
-                "rindex": false
             }
         }, 
         "132288546": {
@@ -73,15 +63,6 @@
                 "modifier": 0, 
                 "player": 0, 
                 "skill": 0
-            }, 
-            "variable_type_dict": {
-                "boolean": false, 
-                "is_shop_tips": false, 
-                "item": false, 
-                "item_type": false, 
-                "modifier": false, 
-                "player": false, 
-                "skill": false
             }
         }, 
         "210653238": {
@@ -96,10 +77,6 @@
             "variable_length_dict": {
                 "last_main_unit": 0, 
                 "unit_group": 0
-            }, 
-            "variable_type_dict": {
-                "last_main_unit": false, 
-                "unit_group": false
             }
         }, 
         "333193219": {
@@ -110,9 +87,6 @@
             }, 
             "variable_length_dict": {
                 "is_bag_open": 0
-            }, 
-            "variable_type_dict": {
-                "is_bag_open": false
             }
         }, 
         "366354479": {
@@ -127,10 +101,6 @@
             "variable_length_dict": {
                 "player": 0, 
                 "store unit": 0
-            }, 
-            "variable_type_dict": {
-                "player": false, 
-                "store unit": false
             }
         }, 
         "503767069": {
@@ -145,10 +115,6 @@
             "variable_length_dict": {
                 "item": 0, 
                 "player": 0
-            }, 
-            "variable_type_dict": {
-                "item": false, 
-                "player": false
             }
         }, 
         "524156982": {
@@ -163,10 +129,6 @@
             "variable_length_dict": {
                 "last_main_unit": 0, 
                 "unit_group": 0
-            }, 
-            "variable_type_dict": {
-                "last_main_unit": false, 
-                "unit_group": false
             }
         }, 
         "534593552": {
@@ -185,11 +147,6 @@
                 "index": 0, 
                 "player": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "index": false, 
-                "player": false, 
-                "unit": false
             }
         }, 
         "568463368": {
@@ -208,11 +165,6 @@
                 "player": 0, 
                 "t": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "player": false, 
-                "t": false, 
-                "unit": false
             }
         }, 
         "671428624": {
@@ -237,13 +189,6 @@
                 "t1": 0, 
                 "t2": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "item": false, 
-                "player": false, 
-                "t1": false, 
-                "t2": false, 
-                "unit": false
             }
         }, 
         "718082063": {
@@ -264,12 +209,6 @@
                 "n": 0, 
                 "player": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "index": false, 
-                "n": false, 
-                "player": false, 
-                "unit": false
             }
         }, 
         "734306311": {
@@ -292,14 +231,6 @@
                 "now_column": 0, 
                 "now_row": 0, 
                 "slot": 0
-            }, 
-            "variable_type_dict": {
-                "Ci": false, 
-                "Ri": false, 
-                "bag_slot": false, 
-                "now_column": false, 
-                "now_row": false, 
-                "slot": false
             }
         }, 
         "786112514": {
@@ -327,15 +258,6 @@
                 "n": 0, 
                 "num": 0, 
                 "trig": 0
-            }, 
-            "variable_type_dict": {
-                "hero_list_len": false, 
-                "hour": false, 
-                "i": false, 
-                "min": false, 
-                "n": false, 
-                "num": false, 
-                "trig": false
             }
         }, 
         "828813355": {
@@ -358,12 +280,6 @@
                 "player": 0, 
                 "t": 0, 
                 "time": 0
-            }, 
-            "variable_type_dict": {
-                "info": false, 
-                "player": false, 
-                "t": false, 
-                "time": false
             }
         }, 
         "863993900": {
@@ -374,9 +290,20 @@
             }, 
             "variable_length_dict": {
                 "dis": 0
+            }
+        }, 
+        "933044280": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "flag": false
+                }, 
+                "UNIT_GROUP": {
+                    "unitGroup": []
+                }
             }, 
-            "variable_type_dict": {
-                "dis": false
+            "variable_length_dict": {
+                "flag": 0, 
+                "unitGroup": 0
             }
         }, 
         "990195764": {
@@ -387,9 +314,6 @@
             }, 
             "variable_length_dict": {
                 "n": 0
-            }, 
-            "variable_type_dict": {
-                "n": false
             }
         }, 
         "1039151122": {
@@ -406,11 +330,6 @@
                 "Player": 0, 
                 "pos": 10, 
                 "tips_size": 10
-            }, 
-            "variable_type_dict": {
-                "Player": false, 
-                "pos": true, 
-                "tips_size": true
             }
         }, 
         "1270726670": {
@@ -429,11 +348,6 @@
                 "player": 0, 
                 "t": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "player": false, 
-                "t": false, 
-                "unit": false
             }
         }, 
         "1302442017": {
@@ -448,10 +362,6 @@
             "variable_length_dict": {
                 "player": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "player": false, 
-                "unit": false
             }
         }, 
         "1325858865": {
@@ -470,11 +380,6 @@
                 "i": 0, 
                 "player": 0, 
                 "store_unit": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "player": false, 
-                "store_unit": false
             }
         }, 
         "1393229841": {
@@ -503,14 +408,6 @@
                 "t1": 0, 
                 "t2": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "destructible": false, 
-                "item": false, 
-                "player": false, 
-                "t1": false, 
-                "t2": false, 
-                "unit": false
             }
         }, 
         "1425182768": {
@@ -541,16 +438,6 @@
                 "store unit": 0, 
                 "t": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "goods_index": false, 
-                "n": false, 
-                "new tab index": false, 
-                "player": false, 
-                "slot": false, 
-                "store unit": false, 
-                "t": false, 
-                "unit": false
             }
         }, 
         "1496309785": {
@@ -570,12 +457,6 @@
                 "index": 0, 
                 "player": 0, 
                 "row": 0
-            }, 
-            "variable_type_dict": {
-                "i": false, 
-                "index": false, 
-                "player": false, 
-                "row": false
             }
         }, 
         "1559846928": {
@@ -608,16 +489,6 @@
                 "t": 0, 
                 "unit": 0, 
                 "unit group": 0
-            }, 
-            "variable_type_dict": {
-                "Ci": false, 
-                "Ri": false, 
-                "i": false, 
-                "index": false, 
-                "player": false, 
-                "t": false, 
-                "unit": false, 
-                "unit group": false
             }
         }, 
         "1585119271": {
@@ -650,17 +521,6 @@
                 "store unit": 0, 
                 "t": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "buyer player": false, 
-                "goods_index": false, 
-                "i": false, 
-                "n": false, 
-                "player": false, 
-                "slot": false, 
-                "store unit": false, 
-                "t": false, 
-                "unit": false
             }
         }, 
         "1665630250": {
@@ -671,9 +531,6 @@
             }, 
             "variable_length_dict": {
                 "dis": 0
-            }, 
-            "variable_type_dict": {
-                "dis": false
             }
         }, 
         "1872433179": {
@@ -688,10 +545,6 @@
             "variable_length_dict": {
                 "item": 0, 
                 "player": 0
-            }, 
-            "variable_type_dict": {
-                "item": false, 
-                "player": false
             }
         }, 
         "2010271789": {
@@ -716,13 +569,6 @@
                 "player": 0, 
                 "store unit": 0, 
                 "tab_index": 0
-            }, 
-            "variable_type_dict": {
-                "dis": false, 
-                "i": false, 
-                "player": false, 
-                "store unit": false, 
-                "tab_index": false
             }
         }, 
         "2079805465": {
@@ -753,16 +599,6 @@
                 "rindex": 0, 
                 "t": 0, 
                 "unit": 0
-            }, 
-            "variable_type_dict": {
-                "Ci": false, 
-                "Ri": false, 
-                "cindex": false, 
-                "i": false, 
-                "player": false, 
-                "rindex": false, 
-                "t": false, 
-                "unit": false
             }
         }
     }, 
@@ -796,9 +632,5 @@
     "variable_length_dict": {
         "GLOBAL_BAG_MAX_NUM": 0, 
         "UI_Manager": 0
-    }, 
-    "variable_type_dict": {
-        "GLOBAL_BAG_MAX_NUM": false, 
-        "UI_Manager": false
     }
 }

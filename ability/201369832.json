@@ -8,9 +8,6 @@
             }, 
             "variable_length_dict": {
                 "Ani": 0
-            }, 
-            "variable_type_dict": {
-                "Ani": false
             }
         }
     }, 
@@ -573,7 +570,7 @@
             "p_trigger_id": null, 
             "trigger_id": 963399684, 
             "trigger_name": "AbilityPercastEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -607,8 +604,5 @@
     ], 
     "variable_length_dict": {
         "Damage": 0
-    }, 
-    "variable_type_dict": {
-        "Damage": false
     }
 }

@@ -544,7 +544,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1474351106, 
             "trigger_name": "AbilityPerparetionEnds", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": [
@@ -567,6 +567,5 @@
     "trigger_version": "1.2", 
     "variable_dict": {}, 
     "variable_group_info": [], 
-    "variable_length_dict": {}, 
-    "variable_type_dict": {}
+    "variable_length_dict": {}
 }
